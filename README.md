@@ -246,7 +246,7 @@ A single-page dashboard (1550 × 750) titled **"Customer Support Quality Analysi
 
 **Data model:** `orignal_tickets` (fact) related to `teams` (dimension) on `team_id`, with three DAX measures: `Ticket Count`, `SLA Breach Rate`, `Avg Satisfaction`.
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](Power_bi_dasboard.png)
 
 ---
 
