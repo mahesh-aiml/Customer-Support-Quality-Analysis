@@ -202,7 +202,7 @@ department_summary["sla_breach_rate"] = (department_summary["sla_breach_rate"] *
 - Seaborn bar plot of **monthly average resolution time**.
 - Exports `outputs/clean_data.csv` and `outputs/python_summary.csv`.
 
-![Monthly Average Resolution Time](images/python_monthly_avg_resolution.png)
+![Monthly Average Resolution Time](python_monthly_avg_resolution.png)
 
 ---
 
